@@ -1,0 +1,1 @@
+[See this blog post](https://marcinciura.wordpress.com/2016/06/22/warping-maps-with-svd/)
